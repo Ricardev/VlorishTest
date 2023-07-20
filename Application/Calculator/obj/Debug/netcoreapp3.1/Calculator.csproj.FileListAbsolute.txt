@@ -1,0 +1,10 @@
+C:\Users\ricar\Documents\Desafios\Application\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\ricar\Documents\Desafios\Application\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\ricar\Documents\Desafios\Application\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\ricar\Documents\Desafios\Application\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+C:\Users\ricar\Documents\Desafios\Application\Calculator\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Documents\Desafios\Application\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\ricar\Documents\Desafios\Application\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\ricar\Documents\Desafios\Application\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Documents\Desafios\Application\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\ricar\Documents\Desafios\Application\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
